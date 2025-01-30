@@ -19,9 +19,6 @@ Welcome to **Woodex**, your go-to destination for beautifully crafted, sustainab
 ## 📌 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: (if applicable - specify if you have any backend technologies)
-- **Framework**: (if applicable - e.g., React, Vue, etc.)
-- **Database**: (if applicable - specify any database technologies)
 
 ## 💡 Contribution
 Feel free to fork this project, make changes, and create pull requests. We welcome all contributions to improve the user experience and add new features!
